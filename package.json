@@ -1,5 +1,5 @@
 {
-  "name": "useCookie",
+  "name": "@use-hook/use-cookie",
   "version": "0.1.0",
   "description": "React Hook for Cookies based on js-cookie",
   "keywords": [
@@ -21,8 +21,8 @@
   "homepage": "https://github.com/rrudol/useCookie#readme",
   "dependencies": {
     "js-cookie": "2.2.0",
-    "react": "^16.7.0-alpha.2",
-    "react-dom": "^16.7.0-alpha.2"
+    "react": "^16.7.0-alpha.0",
+    "react-dom": "^16.7.0-alpha.0"
   },
   "peerDependencies": {
     "react": "^16.7.0-alpha.0",

@@ -5,13 +5,13 @@ React Hook for Cookies based on [js-cookie](https://github.com/js-cookie/js-cook
 ## Instalation
 
 ```sh
-npm install useCookie --save
+npm install @use-hook/use-cookie --save
 ```
 
 ## Usage
 
 ```javascript
-import { useCookie } from "useCookie";
+import { useCookie } from "@use-hook/use-cookie";
 
 function App() {
   const [name, setName] = useCookie("name", "Stefan");
@@ -28,10 +28,6 @@ function App() {
   );
 }
 ```
-
-## Example
-
-- [codesandbox.io](https://codesandbox.io/s/5v8x67nw8l)
 
 ## License
 
